@@ -19,6 +19,26 @@ export const galleryData: GalleryItem[] = [
     sourceName: 'OnlySuds Mobile Detailing Official Facebook Portfolio',
     description: 'Actual mobile detailing transformation delivered directly to customer driveway in Austin, Texas.',
     tags: ['Austin TX', 'Driveway Service', 'Showroom Shine']
+  },
+  {
+    id: 'onlysuds-showcase-02',
+    title: 'Wheel & Tire Precision Restoration',
+    category: 'Exterior Detail',
+    imageUrl: '/images/real/onlysuds_wheel_detail.jpg',
+    sourceUrl: 'https://www.facebook.com/p/OnlySuds-Mobile-Detailing-61576875933300/',
+    sourceName: 'OnlySuds Mobile Detailing Official Facebook Portfolio',
+    description: 'Deep brake dust removal, tire dressing, and rim decontamination.',
+    tags: ['Decontamination', 'Ceramic Seal', 'Wheel Detail']
+  },
+  {
+    id: 'onlysuds-showcase-03',
+    title: 'Paint Correction & High-Gloss Reflection',
+    category: 'Paint Protection',
+    imageUrl: '/images/real/onlysuds_after.jpg',
+    sourceUrl: 'https://www.facebook.com/p/OnlySuds-Mobile-Detailing-61576875933300/',
+    sourceName: 'OnlySuds Mobile Detailing Official Facebook Portfolio',
+    description: 'Swirl mark reduction and mirror-like glossy clear coat finish.',
+    tags: ['Paint Correction', 'Gloss Reflection', 'Mirror Finish']
   }
 ];
 
